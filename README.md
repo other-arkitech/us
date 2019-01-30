@@ -4,7 +4,7 @@ US Public System - Information
 us-cash cryptocurrency (USC)
 
 JAN 2019 - Running release candidate of alpha network.
-           If you are interested in dedicating dedicating a raspberry pi for running a node at home as alpha-tester, send email to other-arkitech@protonmail.com and I'll send the download link. You'll mine USC in return. Thanks.
+           If you are interested in dedicating a raspberry pi for running a node at home as alpha-tester, send email to other-arkitech@protonmail.com and I'll send the download link. You'll mine USC in return. Thanks.
 
 <pre>
 --
