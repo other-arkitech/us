@@ -20,6 +20,12 @@ Information
 JAN 2019 - Running release candidate of alpha network. Current size is 38 nodes.
            If you are interested in dedicating a raspberry pi for running a node at home as alpha-tester, send email to other-arkitech@protonmail.com and I'll send the download link. You'll mine USC in return. Thanks.
 
+
+JUN 2019 - Running alpha-rc12. Network size 58 Nodes. 
+           
+
+
+
 <pre>
 --
 Finding this project useful? You can help this development donating BTC.
